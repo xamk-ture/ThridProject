@@ -9,6 +9,13 @@ namespace ThridProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            //Poista funktiosta kommentit, jotta voit kutsua funktioita.
+            //Assignment1();
+            //Assignment2();
+            //Assignment3();
+            //Assignment4();
+            //Assignment5();
         }
 
         static void Assignment1()
