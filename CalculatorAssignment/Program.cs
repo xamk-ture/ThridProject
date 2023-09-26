@@ -8,7 +8,8 @@ namespace CalculatorAssignment
         {
             //Tehtävä 1:
             //Kysy käyttäjältä kaksi lukua ja tallenna ne muuttujiin x ja y.
-            //Varmista, että käyttäjä syöttää oikean luvun käyttämällä int.TryParse() - metodia.
+            //Varmista, että käyttäjä syöttää oikean luvun käyttämällä int.TryParse() - metodia
+            //tai käyttämällä Try Catch - tekniikkaa.
             //Kysy käyttäjältä operaatio, jonka haluat suorittaa luvuilla.
             //Käytä funktiota Calculator() suorittaaksesi operaation.
             //Tulosta lopputulos.
